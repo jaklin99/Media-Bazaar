@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProjectMB.DatabaseFunctions">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QAEAAAAAAAAIAgAAIAAIQUCAAQAAAAAgBTAAAAUAAAA=</HashCode>
+      <FileName>DatabaseFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectMB.Department">
+    <Position X="3" Y="9.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Department.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectMB.DepartmentForm">
+    <Position X="3" Y="4.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAEEIEAKAQEACAQAAAAAAAEAAgQAAAAE=</HashCode>
+      <FileName>DepartmentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectMB.Departments">
+    <Position X="3" Y="11.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAQAgAAAAAAAAABAAAAAAQAA=</HashCode>
+      <FileName>Departments.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectMB.DepartmentsForm">
+    <Position X="3" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAABABEAAigAAACEAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>DepartmentsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectMB.EmployeeForm">
+    <Position X="6" Y="4.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIABEwABBCQIIEmJEYOCgEgSAIQAAgBAIFIAgYAoAAM=</HashCode>
+      <FileName>EmployeeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectMB.EmployeesForm">
+    <Position X="6" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAAAAAAAACgAgACEAiAAAAAAIAAIAAAAAA=</HashCode>
+      <FileName>EmployeesForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectMB.MainForm">
+    <Position X="0.5" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAQACEAQACACAIAgAEyQEACCIAQQgkAAAgpAAIgAAEQ=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectMB.NoConnectionException" Collapsed="true">
+    <Position X="13.5" Y="10" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NoConnectionException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectMB.NotExistingException" Collapsed="true">
+    <Position X="13.5" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NotExistingUserException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectMB.Product">
+    <Position X="9" Y="10.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAEAAAAAAQAAAAAAAAAAAAAgAAACgA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectMB.ProductForm">
+    <Position X="9" Y="4.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAhAEAEiAAAEEAEAKEAEAGQEAIAAAAAAEAAQAAAAA=</HashCode>
+      <FileName>ProductForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectMB.Products">
+    <Position X="9" Y="13.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectMB.ProductsForm">
+    <Position X="9" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgCAACAAAAAAAACgAAACAACAAACAAIgAIBAAAAA=</HashCode>
+      <FileName>ProductsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectMB.SearchForm">
+    <Position X="12" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAAAAJAAACgAAACAAABAAACAAAAIAAAAQA=</HashCode>
+      <FileName>SearchForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectMB.StatisticsForm">
+    <Position X="12" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAQACAQAACIAAAAQEAAAgACAAAAAA=</HashCode>
+      <FileName>StatisticsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectMB.User">
+    <Position X="6" Y="15.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAWAEACAAAAAkAQJAAAAIAAAAAAAAAAAAAEAAAEk=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectMB.UsernameErrorException" Collapsed="true">
+    <Position X="13.5" Y="9.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UsernameErrorException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectMB.Users">
+    <Position X="6" Y="20.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>IAEAAAAAAAAAAAAAAAAAEAAAGQAAAAAgAgAAgAAAAAA=</HashCode>
+      <FileName>Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ProjectMB.ManageType">
+    <Position X="15" Y="2.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAACACAA=</HashCode>
+      <FileName>ManageType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ProjectMB.PersonPosition">
+    <Position X="15" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAmAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PersonPosition.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ProjectMB.ProductCategory">
+    <Position X="15" Y="5.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AQAQAAAIAAAAAQAABAAAAACAAAAAAAAAQAAAAAAAkAA=</HashCode>
+      <FileName>ProductCategory.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ProjectMB.ShiftType">
+    <Position X="15" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAgAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>ShiftType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

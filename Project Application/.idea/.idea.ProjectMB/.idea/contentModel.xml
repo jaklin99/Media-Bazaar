@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\krish\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\krish\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ProjectMB.-2079657016.00" t="ExcludeRecursive" />
+    <e p="C:\Users\krish\Downloads\s2-cb03-group-5-software-project-Kris\s2-cb03-group-5-software-project-Kris\s2-cb03-group-5-software-project-final\s2-cb03-group-5-software-project" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ProjectMB" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CheckboxDialog.cs" t="Include" />
+        <e p="DatabaseFunctions.cs" t="Include" />
+        <e p="EmployeeForm.cs" t="Include" />
+        <e p="EmployeeForm.Designer.cs" t="Include" />
+        <e p="EmployeeForm.resx" t="Include" />
+        <e p="EmployeesForm.cs" t="Include" />
+        <e p="EmployeesForm.Designer.cs" t="Include" />
+        <e p="EmployeesForm.resx" t="Include" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="ManageType.cs" t="Include" />
+        <e p="NoConnectionException.cs" t="Include" />
+        <e p="NotExistingUserException.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="PersonPosition.cs" t="Include" />
+        <e p="Product.cs" t="Include" />
+        <e p="ProductCategory.cs" t="Include" />
+        <e p="ProductForm.cs" t="Include" />
+        <e p="ProductForm.Designer.cs" t="Include" />
+        <e p="ProductForm.resx" t="Include" />
+        <e p="Products.cs" t="Include" />
+        <e p="ProductsForm.cs" t="Include" />
+        <e p="ProductsForm.Designer.cs" t="Include" />
+        <e p="ProductsForm.resx" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="ProjectMB.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="SearchForm.cs" t="Include" />
+        <e p="SearchForm.Designer.cs" t="Include" />
+        <e p="SearchForm.resx" t="Include" />
+        <e p="ShiftType.cs" t="Include" />
+        <e p="User.cs" t="Include" />
+        <e p="UsernameErrorException.cs" t="Include" />
+        <e p="Users.cs" t="Include" />
+      </e>
+      <e p="ProjectMB.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
